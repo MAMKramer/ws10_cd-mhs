@@ -21,6 +21,9 @@ If you want to test and see how the Workshop page look like you need following p
 Ruby and Build Essentials:
 ```sudo apt-get install ruby-full build-essential zlib1g-dev```
 
+**Note**: you need ruby Version >=3. If you are on older systems pelase Upgrade your Ruby Version. For Ubuntu 20.04 one can find instructions e.g.: https://phoenixnap.com/kb/ here, for Windows see: https://rubyinstaller.org/ 
+
+
 Install Gems as user (not as root):
 
 ```
@@ -31,10 +34,17 @@ source ~/.bashrc
 ```
 
 Install Jekyll Bundler
-```gem install jekyll bundler```
+```
+gem install jekyll bundler
+```
 
 
-Change into this direcotry and build the page: ```jekyll b```
+Change into this direcotry and
+```
+bundle install
+```
+
+and then build the page: ```jekyll b```
 
 And have a look locally: ```jekyll serve```
 
