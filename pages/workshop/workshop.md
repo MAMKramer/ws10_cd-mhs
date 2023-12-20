@@ -41,7 +41,7 @@ The workshop will employ a variety of engaging learning methods, including:
 
 _Proposed Schedule:_
 
-9:00 - 9:15: Welcome and introduction
+9:00 - 9:15: **Welcome and Introduction**
 
 9:15 - 10:00: **Session 1: ”One Health”**
 - Invited Speaker: amelie.desvars@vetmeduni.ac.at
@@ -62,7 +62,7 @@ _Proposed Schedule:_
 - Challenges and limitations of  AI in Veterinary Medicine
 - Q&A and discussion
 
-11:45 - 12:00: **Wrap-up and feedback**
+11:45 - 12:00: **Wrap-up and Feedback**
 
 
 **Call for Participation:**
