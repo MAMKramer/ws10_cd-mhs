@@ -43,14 +43,14 @@ _Proposed Schedule:_
 
 9:00 - 9:15: Welcome and introduction
 
-9:15 - 10:00:** _Session 1: ”One Health”_**
+9:15 - 10:00:**_Session 1: ”One Health”_**
 - Invited Speaker: amelie.desvars@vetmeduni.ac.at
 - Challenges and limitations of AI for “eHealth and Connected Health”  - A One Health Perspective
 - Q&A and discussion
 
 10:00 - 10:15: **Break**
 
-10:15 - 11:00: **_Session 2: AI for Human Medicine_**
+10:15 - 11:00:**_Session 2: AI for Human Medicine_**
 - Overview of AI techniques and applications for AI in human medicine
 - Abstracts / Case studies and examples of AI models and systems for epidemic prediction and management
 - Challenges and limitations of AI for pandemic prediction and management
@@ -83,6 +83,7 @@ The deadline for submissions is **30 January 2024.**
 The results and insights generated during the workshop are invaluable, and we are committed to sharing them with a larger audience to foster broader understanding and impact. We will publish the proceedings to disseminate the extended abstracts.
 
 **Organizers**
-Dr. Mark A.M. Kramer Ph.D. - vetmeduni
-Dipl. Ing. Christian Walter - vetmeduni
-DVM. Anna Pontel MSc. - vetmeduni
+
+- Dr. Mark A.M. Kramer Ph.D. - vetmeduni
+- Dipl. Ing. Christian Walter - vetmeduni
+- DVM. Anna Pontel MSc. - vetmeduni
