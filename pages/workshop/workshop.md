@@ -43,26 +43,26 @@ _Proposed Schedule:_
 
 9:00 - 9:15: Welcome and introduction
 
-9:15 - 10:00:**_Session 1: ”One Health”_**
+9:15 - 10:00: **Session 1: ”One Health”**
 - Invited Speaker: amelie.desvars@vetmeduni.ac.at
 - Challenges and limitations of AI for “eHealth and Connected Health”  - A One Health Perspective
 - Q&A and discussion
 
 10:00 - 10:15: **Break**
 
-10:15 - 11:00:**_Session 2: AI for Human Medicine_**
+10:15 - 11:00: **Session 2: AI for Human Medicine**
 - Overview of AI techniques and applications for AI in human medicine
 - Abstracts / Case studies and examples of AI models and systems for epidemic prediction and management
 - Challenges and limitations of AI for pandemic prediction and management
 - Q&A and discussion
 
-11:00 - 11:45:** _Session 3: AI for Veterinary Medicine_**
+11:00 - 11:45: **Session 3: AI for Veterinary Medicine**
 - Overview of AI techniques and applications in Veterinary Medicine
 - Case studies and examples of AI models and systems for Veterinary Medicine
 - Challenges and limitations of  AI in Veterinary Medicine
 - Q&A and discussion
 
-11:45 - 12:00: **_Wrap-up and feedback_**
+11:45 - 12:00: **Wrap-up and feedback**
 
 
 **Call for Participation:**
