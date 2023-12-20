@@ -75,7 +75,7 @@ To submit an extended abstract to our AIRoV 2024 workshop on "Challenges of Digi
 
 Please include the following: an introduction, a brief literature review, your methodology, primary findings, and the implications of your work. 
 
-Ensure that your abstract adheres to the formatting and submission guidelines provided by the conference, which often include specific requirements for font size, style, and document format. 
+Ensure that your abstract adheres to the formatting and submission guidelines provided by the AIRoV conference, which includes specific requirements for font size, style, and document format. 
 
 The deadline for submissions is **30 January 2024.**
 
